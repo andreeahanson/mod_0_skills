@@ -2,14 +2,13 @@ Delivery
 
 Attributes:
 
-Pick up (array)
-Price (float)
-Location (integer)
+Delivery method (array)
+Location (string)
+Items in the cart (integer)
 
 Methods:
 
-Select payment method
-Make payment
 Add delivery address
-Cancel order
+Save address
+Cancel delivery method
 
