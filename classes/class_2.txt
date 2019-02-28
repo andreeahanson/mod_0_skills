@@ -1,0 +1,14 @@
+Cuisine
+
+Attributes:
+Name (string)
+Vegetarian options (boolean)
+Menu (array)
+Price (float)
+
+Methods:
+Select food option
+Add extra topping
+Filter for gluten free menus
+
+

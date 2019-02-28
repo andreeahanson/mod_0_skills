@@ -1,0 +1,16 @@
+Food ordering app
+
+Class: restaurant
+
+Attributes:
+- name (string)
+- chain (boolean)
+- employees (array)
+- shifts (integer)
+- schedule (string)
+
+Methods:
+- change name
+- get directions
+- order
+- leave a review

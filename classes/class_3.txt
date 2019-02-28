@@ -1,0 +1,15 @@
+Delivery
+
+Attributes:
+
+Pick up (array)
+Price (float)
+Location (integer)
+
+Methods:
+
+Select payment method
+Make payment
+Add delivery address
+Cancel order
+
