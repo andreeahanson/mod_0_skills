@@ -1,0 +1,69 @@
+How to get food at a restaurant
+
+1. Get ready to go to the restaurant
+	1.1 Get dressed
+		1.1.1 Put jeans on
+		1.1.2 Put sweater on
+		1.1.3 Put socks on
+	1.2 Put wallet in my bag
+	1.3 Put keys in my bag
+	1.4 Put phone in my bag
+	1.5 Put shoes on
+	1.6 Grab my bag
+	1.7 Get out of my appartment
+	1.8 Lock the door 
+2. Drive to the restaurant
+	2.1 Walk to the car
+	2.2 Open door to the car
+	2.3 Get in the car
+	2.4 Close the open door
+	2.5 Start the car
+		2.5.1 Put key in the ignition
+		2.5.2 Push the break pedal with the right foot
+		2.5.3 Turn the key clockwise
+		2.5.4 Slowly take the foot off the break pedal
+	2.6 Drive to restaurant according to directions
+		2.6.1 Drive straight for 1 mile
+		2.6.2 Stop at the red light
+		2.6.3 Signal left
+		2.6.4 Turn left
+		2.6.5 Drive straight for 1 mile
+		2.6.6 Turn right
+		2.6.7 Slow down
+	2.7 Park the car
+		2.7.1 Look for a parking spot
+		2.7.2 Drive the car next to the parking spot
+		2.7.3 Manouvre the car into parking spot
+	2.8 Stop the car
+	2.9 Get out of the car
+	2.10 Walk to the restaurant
+3. Order food
+	3.1 Get seated
+	3.2 Read the menu
+	3.3 Tell server my order
+	3.4 Thank the server
+	3.5 Wait for the order
+4. Eat food
+	4.1 Clear the space in front of me
+	4.2 Let the server put the plate in front of me
+	4.3 Thank the server
+	4.4 Take a fork and a knife
+	4.5 Cut a piece of my food
+	4.6 Put the cut piece of food into my mouth
+	4.7 Chew
+	4.8 Swallow
+	4.9 Repeat until I finish the food
+5. Pay for food
+	5.1 Thank the server for picking up my empty plate
+	5.2 Ask for the check
+	5.3 Take my credit card out of my wallet
+	5.4 Give my credit card to the server
+	5.5 Sign the receipt
+	5.6 Write the tip on the receipt
+	5.7 Give the receipt to the server
+6. Leave restaurant
+	6.1 Get up
+	6.2 Walk to the exit
+	6.3 Greet the server
+	6.4 Walk to the car
+	6.5 Drive back home
